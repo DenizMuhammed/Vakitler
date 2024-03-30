@@ -8,6 +8,7 @@ namespace DiniVakitler.Enums
 {
     /* @kaynaklar:
      * https://www.date-converter.com/tr/hijri-calendar/turkey/1445/
+     * yeni kaynaklar bul
      */
     public static class HicriayUzunluklari
     {
